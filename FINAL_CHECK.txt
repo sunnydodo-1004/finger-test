@@ -1,0 +1,16 @@
+PASS - 1 핵심 성향 요약
+PASS - 2 TOP 3 강점 상세 설명
+PASS - 3 추천 직업·역할
+PASS - 4 낮은 영역 보완점
+PASS - 5 인간관계 강점
+PASS - 6 인간관계 유의점
+PASS - 7 학습/업무 스타일
+PASS - 8 8개 영역 전체 분석
+PASS - 9 손가락별 지문 결과
+PASS - 10 고지 문구
+PASS - 11 A4 1장 PDF
+PASS - 12 비밀번호 finger1004
+PASS - 13 간편/정밀 검사
+PASS - 14 모바일 대응
+PASS - 15 첫 화면 샘플
+PASS - 간편검사 1회

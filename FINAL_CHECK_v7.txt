@@ -1,0 +1,11 @@
+PASS - 성향별 컬러 테마
+PASS - 중복 TOP3 카드 제거
+PASS - 중복 영역별 점수 카드 제거
+PASS - 손가락별 결과 제거
+PASS - 8개 영역 고정 설명
+PASS - 인간관계 상세화
+PASS - A4 PDF 유지
+PASS - 비밀번호 유지
+PASS - 간편/정밀 유지
+PASS - 모바일 대응 유지
+PASS - 첫 화면 샘플 유지
